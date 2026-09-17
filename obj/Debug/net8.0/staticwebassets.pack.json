@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\0c605348-5ac1-4c43-a6a1-7edc6cbd96d4.png",
+      "PackagePath": "staticwebassets\\UploadFile\\0c605348-5ac1-4c43-a6a1-7edc6cbd96d4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\27bb7e4b-ac52-4fe9-ae89-07f040fb6932.jpg",
+      "PackagePath": "staticwebassets\\UploadFile\\27bb7e4b-ac52-4fe9-ae89-07f040fb6932.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\4ca679c0-8196-4e87-8f4c-bf6f8843b186.jpg",
+      "PackagePath": "staticwebassets\\UploadFile\\4ca679c0-8196-4e87-8f4c-bf6f8843b186.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\5752e1b1-4dc8-4800-bf7f-0aa3cc7bdeba.jpeg",
+      "PackagePath": "staticwebassets\\UploadFile\\5752e1b1-4dc8-4800-bf7f-0aa3cc7bdeba.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\6fa99ad1-0243-4e0e-9f22-7e327e811a31.png",
+      "PackagePath": "staticwebassets\\UploadFile\\6fa99ad1-0243-4e0e-9f22-7e327e811a31.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\795cce3c-7da4-4b4f-85c9-9328f802778a.jpg",
+      "PackagePath": "staticwebassets\\UploadFile\\795cce3c-7da4-4b4f-85c9-9328f802778a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\9bdd4824-463d-4e18-8623-e0f869199300.jpg",
+      "PackagePath": "staticwebassets\\UploadFile\\9bdd4824-463d-4e18-8623-e0f869199300.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\b9a173e1-f526-4a46-8051-c467f1b4d97d.jpeg",
+      "PackagePath": "staticwebassets\\UploadFile\\b9a173e1-f526-4a46-8051-c467f1b4d97d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\be31f4e3-21c6-4458-b04a-311f0fe05ab9.jpg",
+      "PackagePath": "staticwebassets\\UploadFile\\be31f4e3-21c6-4458-b04a-311f0fe05ab9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\c7a45624-166f-4709-b118-77b5ec3455a1.jpg",
+      "PackagePath": "staticwebassets\\UploadFile\\c7a45624-166f-4709-b118-77b5ec3455a1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\cc192ec9-1d80-4ba8-b1ee-312c564c185b.jpg",
+      "PackagePath": "staticwebassets\\UploadFile\\cc192ec9-1d80-4ba8-b1ee-312c564c185b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\d0e48451-466e-47c6-9a66-b77cb8c368ef.jpg",
+      "PackagePath": "staticwebassets\\UploadFile\\d0e48451-466e-47c6-9a66-b77cb8c368ef.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\e95fe588-d946-4016-b84e-7049f4be195a.jpg",
+      "PackagePath": "staticwebassets\\UploadFile\\e95fe588-d946-4016-b84e-7049f4be195a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenov\\Desktop\\.Net\\TallerMecanico\\wwwroot\\UploadFile\\fdf7ae49-eba3-4d9c-859e-13324e665621.jpg",
+      "PackagePath": "staticwebassets\\UploadFile\\fdf7ae49-eba3-4d9c-859e-13324e665621.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TallerMecanico.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TallerMecanico.props",
+      "PackagePath": "build\\TallerMecanico.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TallerMecanico.props",
+      "PackagePath": "buildMultiTargeting\\TallerMecanico.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TallerMecanico.props",
+      "PackagePath": "buildTransitive\\TallerMecanico.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
